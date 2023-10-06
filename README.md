@@ -1,2 +1,2 @@
-# html-portfolio
+# portfolio
 project just for practice 
